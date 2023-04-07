@@ -1,0 +1,15 @@
+export { ReactComponent as RuleHorizontalIcon } from "./ic_rule_horizontal.svg";
+export { ReactComponent as MoreHorizontalIcon } from "./ic_more_horizontal.svg";
+export { ReactComponent as AvatarIconMyTour } from "./ic_avatar.svg";
+export { ReactComponent as ArrowDownIcon } from "./ic_arrow_down.svg";
+export { ReactComponent as SendIcon } from "./ic_send.svg";
+export { ReactComponent as AttachFileIcon } from "./ic_attach_file.svg";
+export { ReactComponent as LikeIcon } from "./ic_like.svg";
+export { ReactComponent as DislikeIcon } from "./ic_dislike.svg";
+export { ReactComponent as AddImageIcon } from "./ic_add_image.svg";
+export { ReactComponent as CloseFillIcon } from "./ic_close_fill.svg";
+export { ReactComponent as AvatarChatIcon } from "./ic_avatar_chat.svg";
+export { ReactComponent as HandIcon } from "./ic_hand.svg";
+export { ReactComponent as CloseCircleIcon } from "./ic_close_circle.svg";
+export { ReactComponent as MoreIcon } from "./ic_more.svg";
+export { ReactComponent as CustomerServiceIcon } from "./ic_customer_service.svg";

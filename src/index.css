@@ -1,0 +1,8 @@
+body.chat-sdk {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family:'Mt';
+  box-sizing: border-box;
+}
+
